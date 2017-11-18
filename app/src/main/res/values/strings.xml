@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Body Balance</string>
+    <string name="weight">Berat Badan</string>
+    <string name="height">Tinggi Badan</string>
+    <string name="men">Laki-Laki</string>
+    <string name="women">Perempuan</string>
+    <string name="age">Umur</string>
+    <string name="calculate">Hitung!</string>
+
+    <!-- Nilai interprestasi dari hasil perhitungan BMI-->
+    <string name="bmiNormal">Normal</string>
+    <string name="bmiOver">Kelebihan Berat Badan</string>
+    <string name="bmiUnder">Kurus</string>
+    <string name="bmiSUnder">Sangat Kurus</string>
+    <string name="bmiObese">Obesitas</string>
+</resources>
